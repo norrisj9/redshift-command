@@ -1,0 +1,22 @@
+C:\Users\NORRISJ\AppData\Local\Temporary Projects\RedshiftCommand_v1\bin\Debug\RedshiftCommand_v1.exe.config
+C:\Users\NORRISJ\AppData\Local\Temporary Projects\RedshiftCommand_v1\bin\Debug\RedshiftCommand_v1.exe
+C:\Users\NORRISJ\AppData\Local\Temporary Projects\RedshiftCommand_v1\bin\Debug\RedshiftCommand_v1.pdb
+C:\Users\NORRISJ\AppData\Local\Temporary Projects\RedshiftCommand_v1\bin\Debug\RedshiftCommand_v1.xml
+C:\Users\NORRISJ\AppData\Local\Temporary Projects\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.vbprojResolveAssemblyReference.cache
+C:\Users\NORRISJ\AppData\Local\Temporary Projects\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.Form1.resources
+C:\Users\NORRISJ\AppData\Local\Temporary Projects\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.Resources.resources
+C:\Users\NORRISJ\AppData\Local\Temporary Projects\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.vbproj.GenerateResource.Cache
+C:\Users\NORRISJ\AppData\Local\Temporary Projects\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.exe
+C:\Users\NORRISJ\AppData\Local\Temporary Projects\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.xml
+C:\Users\NORRISJ\AppData\Local\Temporary Projects\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.pdb
+C:\Users\NORRISJ\Documents\Visual Studio 2015\Projects\RedshiftCommand_v1\RedshiftCommand_v1\bin\Debug\RedshiftCommand_v1.exe.config
+C:\Users\NORRISJ\Documents\Visual Studio 2015\Projects\RedshiftCommand_v1\RedshiftCommand_v1\bin\Debug\RedshiftCommand_v1.exe
+C:\Users\NORRISJ\Documents\Visual Studio 2015\Projects\RedshiftCommand_v1\RedshiftCommand_v1\bin\Debug\RedshiftCommand_v1.pdb
+C:\Users\NORRISJ\Documents\Visual Studio 2015\Projects\RedshiftCommand_v1\RedshiftCommand_v1\bin\Debug\RedshiftCommand_v1.xml
+C:\Users\NORRISJ\Documents\Visual Studio 2015\Projects\RedshiftCommand_v1\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.vbprojResolveAssemblyReference.cache
+C:\Users\NORRISJ\Documents\Visual Studio 2015\Projects\RedshiftCommand_v1\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.Form1.resources
+C:\Users\NORRISJ\Documents\Visual Studio 2015\Projects\RedshiftCommand_v1\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.Resources.resources
+C:\Users\NORRISJ\Documents\Visual Studio 2015\Projects\RedshiftCommand_v1\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.vbproj.GenerateResource.Cache
+C:\Users\NORRISJ\Documents\Visual Studio 2015\Projects\RedshiftCommand_v1\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.exe
+C:\Users\NORRISJ\Documents\Visual Studio 2015\Projects\RedshiftCommand_v1\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.xml
+C:\Users\NORRISJ\Documents\Visual Studio 2015\Projects\RedshiftCommand_v1\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.pdb
