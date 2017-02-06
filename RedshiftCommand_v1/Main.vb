@@ -20,7 +20,7 @@
 
 
         Dim objRS As New clsRedshift
-        Dim s As clsRedshift.rs_connection
+        Dim s As clsUtilities.rs_connection
 
         s.url = txtUrl.Text
         s.password = Trim(Me.txtPassword.Text)

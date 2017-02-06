@@ -20,3 +20,7 @@ C:\Users\NORRISJ\Documents\Visual Studio 2015\Projects\RedshiftCommand_v1\Redshi
 C:\Users\NORRISJ\Documents\Visual Studio 2015\Projects\RedshiftCommand_v1\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.exe
 C:\Users\NORRISJ\Documents\Visual Studio 2015\Projects\RedshiftCommand_v1\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.xml
 C:\Users\NORRISJ\Documents\Visual Studio 2015\Projects\RedshiftCommand_v1\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.pdb
+C:\Users\NORRISJ\GitRepo\redshift-command\RedshiftCommand_v1\bin\Debug\RedshiftCommand_v1.exe.config
+C:\Users\NORRISJ\GitRepo\redshift-command\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.exe
+C:\Users\NORRISJ\GitRepo\redshift-command\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.xml
+C:\Users\NORRISJ\GitRepo\redshift-command\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.pdb
