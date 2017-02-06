@@ -2,18 +2,12 @@
 
 Public Class clsRedshift
 
-    Public Structure rs_connection
-        Public url As String
-        Public username As String
-        Public password As String
-        Public port As Integer
-        Public database As String
-    End Structure
+
 
 
     Private objDataConn As Odbc.OdbcConnection
 
-    Public Function GetUsers(conn As rs_connection) As Odbc.OdbcDataReader
+    Public Function GetUsers(conn As clsUtilities.rs_connection) As Odbc.OdbcDataReader
 
         Dim strConn As String
 
