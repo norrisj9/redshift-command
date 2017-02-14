@@ -24,3 +24,15 @@ C:\Users\NORRISJ\GitRepo\redshift-command\RedshiftCommand_v1\bin\Debug\RedshiftC
 C:\Users\NORRISJ\GitRepo\redshift-command\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.exe
 C:\Users\NORRISJ\GitRepo\redshift-command\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.xml
 C:\Users\NORRISJ\GitRepo\redshift-command\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.pdb
+C:\Gitrepos\redshift-command\RedshiftCommand_v1\bin\Debug\RedshiftCommand_v1.exe.config
+C:\Gitrepos\redshift-command\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.exe
+C:\Gitrepos\redshift-command\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.xml
+C:\Gitrepos\redshift-command\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.pdb
+C:\Gitrepos\redshift-command\RedshiftCommand_v1\bin\Debug\RedshiftCommand_v1.exe
+C:\Gitrepos\redshift-command\RedshiftCommand_v1\bin\Debug\RedshiftCommand_v1.pdb
+C:\Gitrepos\redshift-command\RedshiftCommand_v1\bin\Debug\RedshiftCommand_v1.xml
+C:\Gitrepos\redshift-command\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.vbprojResolveAssemblyReference.cache
+C:\Gitrepos\redshift-command\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.Main.resources
+C:\Gitrepos\redshift-command\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.Resources.resources
+C:\Gitrepos\redshift-command\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.ScriptGenerator.resources
+C:\Gitrepos\redshift-command\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.vbproj.GenerateResource.Cache

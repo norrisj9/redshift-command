@@ -30,64 +30,71 @@ Partial Class Main
         Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.txtPort = New System.Windows.Forms.TextBox()
         Me.DataGridView1 = New System.Windows.Forms.DataGridView()
-        Me.Button1 = New System.Windows.Forms.Button()
         Me.Usename = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.usesysid = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.Button1 = New System.Windows.Forms.Button()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'txtUrl
         '
-        Me.txtUrl.Location = New System.Drawing.Point(82, 35)
+        Me.txtUrl.Location = New System.Drawing.Point(109, 43)
+        Me.txtUrl.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtUrl.Name = "txtUrl"
-        Me.txtUrl.Size = New System.Drawing.Size(383, 20)
+        Me.txtUrl.Size = New System.Drawing.Size(509, 22)
         Me.txtUrl.TabIndex = 0
         Me.txtUrl.Text = "redshift-test.cayq9aizq1mt.eu-west-1.redshift.amazonaws.com"
         '
         'TextBox2
         '
-        Me.TextBox2.Location = New System.Drawing.Point(82, 207)
+        Me.TextBox2.Location = New System.Drawing.Point(109, 255)
+        Me.TextBox2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(383, 20)
+        Me.TextBox2.Size = New System.Drawing.Size(509, 22)
         Me.TextBox2.TabIndex = 1
         '
         'txtPassword
         '
-        Me.txtPassword.Location = New System.Drawing.Point(82, 87)
+        Me.txtPassword.Location = New System.Drawing.Point(109, 107)
+        Me.txtPassword.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtPassword.Name = "txtPassword"
         Me.txtPassword.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
-        Me.txtPassword.Size = New System.Drawing.Size(193, 20)
+        Me.txtPassword.Size = New System.Drawing.Size(256, 22)
         Me.txtPassword.TabIndex = 2
         Me.txtPassword.Text = "Vendetta01"
         '
         'txtUserName
         '
-        Me.txtUserName.Location = New System.Drawing.Point(82, 61)
+        Me.txtUserName.Location = New System.Drawing.Point(109, 75)
+        Me.txtUserName.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtUserName.Name = "txtUserName"
-        Me.txtUserName.Size = New System.Drawing.Size(193, 20)
+        Me.txtUserName.Size = New System.Drawing.Size(256, 22)
         Me.txtUserName.TabIndex = 3
         Me.txtUserName.Text = "rs_admin"
         '
         'txtDatabase
         '
-        Me.txtDatabase.Location = New System.Drawing.Point(82, 113)
+        Me.txtDatabase.Location = New System.Drawing.Point(109, 139)
+        Me.txtDatabase.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtDatabase.Name = "txtDatabase"
-        Me.txtDatabase.Size = New System.Drawing.Size(193, 20)
+        Me.txtDatabase.Size = New System.Drawing.Size(256, 22)
         Me.txtDatabase.TabIndex = 5
         Me.txtDatabase.Text = "dev"
         '
         'TextBox1
         '
-        Me.TextBox1.Location = New System.Drawing.Point(12, 417)
+        Me.TextBox1.Location = New System.Drawing.Point(16, 513)
+        Me.TextBox1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(1084, 20)
+        Me.TextBox1.Size = New System.Drawing.Size(1444, 22)
         Me.TextBox1.TabIndex = 7
         '
         'txtPort
         '
-        Me.txtPort.Location = New System.Drawing.Point(82, 139)
+        Me.txtPort.Location = New System.Drawing.Point(109, 171)
+        Me.txtPort.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txtPort.Name = "txtPort"
-        Me.txtPort.Size = New System.Drawing.Size(193, 20)
+        Me.txtPort.Size = New System.Drawing.Size(256, 22)
         Me.txtPort.TabIndex = 8
         Me.txtPort.Text = "5439"
         '
@@ -97,20 +104,12 @@ Partial Class Main
         Me.DataGridView1.AllowUserToDeleteRows = False
         Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.DataGridView1.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.Usename, Me.usesysid})
-        Me.DataGridView1.Location = New System.Drawing.Point(82, 248)
+        Me.DataGridView1.Location = New System.Drawing.Point(109, 305)
+        Me.DataGridView1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.DataGridView1.Name = "DataGridView1"
         Me.DataGridView1.ReadOnly = True
-        Me.DataGridView1.Size = New System.Drawing.Size(318, 150)
+        Me.DataGridView1.Size = New System.Drawing.Size(424, 185)
         Me.DataGridView1.TabIndex = 9
-        '
-        'Button1
-        '
-        Me.Button1.Location = New System.Drawing.Point(390, 61)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(75, 23)
-        Me.Button1.TabIndex = 10
-        Me.Button1.Text = "Button1"
-        Me.Button1.UseVisualStyleBackColor = True
         '
         'Usename
         '
@@ -124,11 +123,21 @@ Partial Class Main
         Me.usesysid.Name = "usesysid"
         Me.usesysid.ReadOnly = True
         '
-        'Form1
+        'Button1
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.Button1.Location = New System.Drawing.Point(520, 75)
+        Me.Button1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(100, 28)
+        Me.Button1.TabIndex = 10
+        Me.Button1.Text = "Button1"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
+        'Main
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1108, 460)
+        Me.ClientSize = New System.Drawing.Size(1477, 566)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.DataGridView1)
         Me.Controls.Add(Me.txtPort)
@@ -138,7 +147,8 @@ Partial Class Main
         Me.Controls.Add(Me.txtPassword)
         Me.Controls.Add(Me.TextBox2)
         Me.Controls.Add(Me.txtUrl)
-        Me.Name = "Form1"
+        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Name = "Main"
         Me.Text = "Form1"
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
