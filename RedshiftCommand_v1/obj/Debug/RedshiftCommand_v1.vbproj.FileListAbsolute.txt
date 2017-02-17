@@ -36,3 +36,4 @@ C:\Gitrepos\redshift-command\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.Mai
 C:\Gitrepos\redshift-command\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.Resources.resources
 C:\Gitrepos\redshift-command\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.ScriptGenerator.resources
 C:\Gitrepos\redshift-command\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.vbproj.GenerateResource.Cache
+C:\Gitrepos\redshift-command\RedshiftCommand_v1\obj\Debug\RedshiftCommand_v1.TreeView.resources

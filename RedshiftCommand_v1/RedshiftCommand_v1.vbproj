@@ -73,12 +73,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="classes\clsRedshift.vb" />
+    <Compile Include="classes\clsSQLServer.vb" />
     <Compile Include="classes\clsUtilities.vb" />
-    <Compile Include="Main.vb">
+    <Compile Include="Forms\Main.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Main.Designer.vb">
+    <Compile Include="Forms\Main.Designer.vb">
       <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TreeView.Designer.vb">
+      <DependentUpon>TreeView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TreeView.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -96,16 +103,19 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="ScriptGenerator.Designer.vb">
+    <Compile Include="Forms\ScriptGenerator.Designer.vb">
       <DependentUpon>ScriptGenerator.vb</DependentUpon>
     </Compile>
-    <Compile Include="ScriptGenerator.vb">
+    <Compile Include="Forms\ScriptGenerator.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Main.resx">
+    <EmbeddedResource Include="Forms\Main.resx">
       <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TreeView.resx">
+      <DependentUpon>TreeView.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
@@ -113,7 +123,7 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="ScriptGenerator.resx">
+    <EmbeddedResource Include="Forms\ScriptGenerator.resx">
       <DependentUpon>ScriptGenerator.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>

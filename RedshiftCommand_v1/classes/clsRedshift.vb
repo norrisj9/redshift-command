@@ -14,7 +14,6 @@ Public Class clsRedshift
 
         objDataConn.Open()
 
-
         Dim strSQL As String
 
         strSQL = "select * from pg_catalog.pg_user"
